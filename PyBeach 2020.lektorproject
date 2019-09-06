@@ -1,5 +1,6 @@
 [project]
 name = PyBeach 2020
+excluded_assets = *.scss
 
 [packages]
 lektor-scsscompile = 1.2.4
