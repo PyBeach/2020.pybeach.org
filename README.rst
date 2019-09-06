@@ -24,6 +24,8 @@ Developing
   make serve
   # go to http://localhost:5000
 
+After creating a PR on GitHub, note the Netlify preview link which will be available in the checks.
+
 Files
 ~~~~~
 
