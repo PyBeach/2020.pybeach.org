@@ -1,2 +1,5 @@
 [project]
 name = PyBeach 2020
+
+[packages]
+lektor-scsscompile = 1.2.4
