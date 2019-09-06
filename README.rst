@@ -61,4 +61,4 @@ The site is deployed on `Netlify <https://www.netlify.com>`_ from the ``master``
 Code of Conduct
 ---------------
 
-Everyone contributing to this repository is bound by the Code of Conduct employed by the conference. The full text can be found in the `CODE_OF_CONDUCT.md` file.
+Everyone contributing to this repository is bound by the Code of Conduct employed by the conference. The full text can be found in the ``CODE_OF_CONDUCT.md`` file.
