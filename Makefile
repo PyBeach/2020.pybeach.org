@@ -8,4 +8,4 @@ serve: ## serve project locally for development
 	pipenv run lektor serve -f scsscompile
 
 build: ## build project for hosting on Netlify
-	lektor build -f scsscompile --output-path build
+	lektor build -f scsscompile --output-path _build
