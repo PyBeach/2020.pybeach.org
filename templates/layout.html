@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- voodoo -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <!-- basic meta -->
+    <title>{{ this.title }}</title>
+    <meta
+      name="description"
+      content="PyBeach is a Python conference in Los Angeles, California, coming in early 2020."
+    />
+
+    <!-- OG -->
+    <meta property="og:title" content="{{ this.title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://2020.pybeach.org" />
+    <meta
+      property="og:description"
+      content="PyBeach is a Python conference in Los Angeles, California, coming in early 2020."
+    />
+    <meta property="og:image" content="pybeach_144.png" />
+    <meta property="og:image:width" content="144" />
+    <meta property="og:image:height" content="144" />
+
+    <!-- assets -->
+    <link rel="shortcut icon" href="/static/pybeach_64.png" />
+    <link rel="apple-touch-icon" href="/static/pybeach_144.png" />
+
+    <!-- style -->
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:400,700|Raleway:700,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" type="text/css" href="/static/style/style.css" />
+  </head>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 50 1440 80">
+    <path
+      fill="#306998"
+      fill-opacity="1"
+      d="M0,64L80,80C160,96,320,128,480,128C640,128,800,96,960,90.7C1120,85,1280,107,1360,117.3L1440,128L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"
+    ></path>
+  </svg>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="/">{{ this.title }}</a></h1>
+        <h2>{{ this.subtitle }}</h2>
+      </header>
+      <section>
+        {% block body %}{% endblock %}
+      </section>
+      <footer>
+        &copy; PyBeach, member project of the <a href="https://www.python.org/psf/">Python Software Foundation</a>, a 501(c)(3) non-profit corporation.
+      </footer>
+    </div>
+    <svg
+      style="position: absolute;"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1440 320"
+    >
+      <path
+        fill="#306998"
+        fill-opacity="1"
+        d="M0,160L48,165.3C96,171,192,181,288,192C384,203,480,213,576,202.7C672,192,768,160,864,176C960,192,1056,256,1152,261.3C1248,267,1344,213,1392,186.7L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
+      ></path>
+    </svg>
+  </body>
+</html>
