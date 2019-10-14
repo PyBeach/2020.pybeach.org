@@ -26,7 +26,7 @@ Los Angeles area and the rest of Southern California.
     For more information please subscribe to the
     <a href="https://tinyletter.com/pybeach">mailing list</a>: &nbsp;
     <span class="newsletter-form">
-      <input type="email" name="email" id="tlemail" />
+      <input type="email" name="email" id="tlemail" placeholder="you@example.com" />
       <input type="hidden" value="1" name="embed" />
       <input type="submit" value="Subscribe" />
     </span>
