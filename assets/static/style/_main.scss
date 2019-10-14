@@ -36,6 +36,7 @@ h2 {
   margin-top: 0;
   font-family: $raleway;
   font-weight: 700;
+  font-size: 1.25rem;
   text-align: center;
   background: $dark-blue;
   color: $white;
@@ -71,6 +72,7 @@ td {
 footer {
   margin: 25px 0;
   text-align: center;
+  font-size: 0.85rem;
 }
 
 /*************/
@@ -83,7 +85,7 @@ footer {
   h2 {
     font-size: 2rem;
   }
-  p {
+  p, li {
     font-size: 1.25rem;
   }
   table {
