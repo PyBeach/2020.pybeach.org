@@ -10,11 +10,17 @@ within the local technology community. The conference is made possible
 by the fiscal sponsorship of the
 [Python Software Foundation](https://www.python.org/psf/).
 
-PyBeach 2020 will be a one-day, two-track event, with “hallway track”
-space and an expo hall. It will be hosted on a Saturday in early 2020,
-at a yet-to-be-determined venue. The expected attendance is around 150
-professionals, enthusiasts, and students, mostly local to the greater
-Los Angeles area and the rest of Southern California.
+PyBeach 2020 will be a one-day, single-track event, with a main talks
+track, open source sprints, “hallway track” space, and an expo hall.
+It will be hosted on Saturday, February 29, 2020, at Toolbox LA. The
+expected attendance is around 225 professionals, enthusiasts, and
+students, mostly local to the greater Los Angeles area and the rest of
+Southern California.
+
+Important dates:
+- 10/15/2019: call for proposals opens
+- 12/15/2019: call for proposals closes
+- 2/29/2020: conference happens!
 
 <form
   action="https://tinyletter.com/PyBeach"
@@ -23,7 +29,7 @@ Los Angeles area and the rest of Southern California.
   onsubmit="window.open('https://tinyletter.com/PyBeach', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
 >
   <p>
-    For more information please subscribe to the
+    For ticket sales and other information please  subscribe to the
     <a href="https://tinyletter.com/pybeach">mailing list</a>: &nbsp;
     <span class="newsletter-form">
       <input type="email" name="email" id="tlemail" placeholder="you@example.com" />
