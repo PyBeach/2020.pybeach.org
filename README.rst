@@ -50,6 +50,7 @@ Content
 .......
 
 - ``content/contents.lr``: main page
+- ``content/conduct/contents.lr``: CoC page
 
 Add and modify content as you wish. Documentation on how Lektor organizes content can be found here: `https://www.getlektor.com/docs/content/ <https://www.getlektor.com/docs/content/>`_.
 
