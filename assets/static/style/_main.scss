@@ -14,7 +14,7 @@ body {
   padding: 0 5%;
 }
 
-h1 {
+h1.title {
   margin: 0;
   font-family: $raleway;
   font-weight: 900;
@@ -32,7 +32,7 @@ a {
   color: $dark-blue;
 }
 
-h2 {
+h2.subtitle {
   margin-top: 0;
   font-family: $raleway;
   font-weight: 700;
@@ -79,10 +79,10 @@ footer {
 /* overrides */
 
 @media (min-width: 500px) {
-  h1 {
+  h1.title {
     font-size: 4rem;
   }
-  h2 {
+  h2.subtitle {
     font-size: 2rem;
   }
   p, li {
@@ -94,7 +94,7 @@ footer {
 }
 
 @media (min-width: 700px) {
-  h1 {
+  h1.title {
     font-size: 5.5rem;
   }
   table {
@@ -107,7 +107,7 @@ footer {
 }
 
 @media (min-width: 1000px) {
-  h1 {
+  h1.title {
     font-size: 7.75rem;
   }
 }
