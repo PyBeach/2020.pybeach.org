@@ -1,5 +1,8 @@
 {% extends "layout.html" %}
 
 {% block body %}
+
+  {% if this.title %}<h3>{{ this.title }}</h3>{% endif %}
+
   {{ this.body }}
 {% endblock %}

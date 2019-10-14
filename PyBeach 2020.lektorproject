@@ -2,5 +2,8 @@
 name = PyBeach 2020
 excluded_assets = *.scss
 
+title = PyBeach 2020: Saturday, February 29, 2020, Los Angeles, California
+description = PyBeach is a Python conference in Los Angeles, California.
+
 [packages]
 lektor-scsscompile = 1.2.4
