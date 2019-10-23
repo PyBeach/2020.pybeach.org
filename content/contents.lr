@@ -18,13 +18,13 @@ Southern California.
 
 Important dates:
 
-| Date       | Event                             |
-|:---        |:---                               |
-| 10/15/2019 | Call for proposals opens &#10003; |
-| 12/15/2019 | Call for proposals closes         |
-| 1/15/2020  | Acceptance notifications sent     |
-| 1/22/2020  | Schedule published                |
-| 2/29/2020  | Conference happens!               |
+| Date       | Event                               |
+|:---        |:---                                 |
+| 10/15/2019 | [Call for proposals] opens &#10003; |
+| 12/15/2019 | Call for proposals closes           |
+| 1/15/2020  | Acceptance notifications sent       |
+| 1/22/2020  | Schedule published                  |
+| 2/29/2020  | Conference happens!                 |
 
 <form
   action="https://tinyletter.com/PyBeach"
@@ -50,5 +50,6 @@ emailing [hello@pybeach.org].
 
 
 [Python Software Foundation]: https://www.python.org/psf/
+[Call for proposals]: https://www.papercall.io/pybeach2020
 [@PyBeachLA]: https://twitter.com/pybeachla
 [hello@pybeach.org]: mailto:hello@pybeach.org
