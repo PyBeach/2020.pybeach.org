@@ -37,19 +37,29 @@ If a participant engages in behavior that violates this code of conduct, the con
 
 ## Contact Information
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing t-shirts and/or badges that clearly identify them as staff. You can email the incident response team at safety@pybeach.org.. You may also contact venue staff and ask to be put in touch with conference chair Nathan Danielsen.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing t-shirts and/or badges that clearly identify them as staff. You can email the incident response team at [safety@pybeach.org]. You may also contact venue staff and ask to be put in touch with conference chair Nathan Danielsen.
 
 If the matter is especially urgent, please dial our Code of Conduct and safety incident hotline (we'll publish the phone number closer to the date of the event). This number will automatically route to a member of the conference staff who can render assistance.
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 ## Procedure for Handling Harassment
 
-- [Attendee procedure for incident handling](./attendee-procedure-for-incident-handling/) 
-- [Staff procedure for incident handling](./staff-procedure-for-incident-handling/) 
+- [Attendee procedure for incident handling]
+- [Staff procedure for incident handling]
 
 
 ## License
 
-This Code of Conduct was forked from the [North Bay Python Code of Conduct](https://2019.northbaypython.org/code-of-conduct/) under a [MIT License](https://github.com/northbaypython/website/blob/master/LICENSE)  which was formed from the  [PyCon US Code of Conduct](https://github.com/python/pycon-code-of-conduct) under a [Creative Commons](http://creativecommons.org/licenses/by/3.0/) Attribution 3.0 Unported license, itself originally forked from the example policy in [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers. which is under a [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/)  license.
+This Code of Conduct was forked from the [North Bay Python Code of Conduct] under an [MIT License], which was formed from the [PyCon US Code of Conduct] under a [Creative Commons Attribution 3.0 Unported license], itself originally forked from the example policy in [Geek Feminism wiki], created by the Ada Initiative and other volunteers, which is under a [Creative Commons Zero] license.
 
+
+[safety@pybeach.org]: mailto:safety@pybeach.org
+[Attendee procedure for incident handling]: ./attendee-procedure-for-incident-handling/
+[Staff procedure for incident handling]: ./staff-procedure-for-incident-handling/
+[North Bay Python Code of Conduct]: https://2019.northbaypython.org/code-of-conduct/
+[MIT License]: https://github.com/northbaypython/website/blob/master/LICENSE
+[PyCon US Code of Conduct]: https://github.com/python/pycon-code-of-conduct
+[Creative Commons Attribution 3.0 Unported license]: http://creativecommons.org/licenses/by/3.0/
+[Geek Feminism wiki]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
+[Creative Commons Zero]: https://creativecommons.org/publicdomain/zero/1.0/
