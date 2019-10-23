@@ -2,20 +2,53 @@ title: PyBeach Code of Conduct
 ---
 body:
 
-The Python community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, we encourage you to follow these guidelines which help steer our interactions and strive to keep Python a positive, successful, and growing community.
+## Code of Conduct
 
-A member of the Python community is:
+PyBeach is a community conference intended for networking and collaboration in the developer community.
 
-## Open
+We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by PyBeach or not.
 
-Members of the community are open to collaboration, whether it's on PEPs, patches, problems, or otherwise. We're receptive to constructive comment and criticism, as the experiences and skill sets of other members contribute to the whole of our efforts. We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
+To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyBeach event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
-## Considerate
 
-Members of the community are considerate of their peers -- other Python users. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community. We're attentive in our communications, whether in person or online, and we're tactful when approaching differing views.
+## The Short Version
 
-## Respectful
+PyBeach is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
 
-Members of the community are respectful. We're respectful of others, their positions, their skills, their commitments, and their efforts. We're respectful of the volunteer efforts that permeate the Python community. We're respectful of the processes set forth in the community, and we work within them. When we disagree, we are courteous in raising our issues.
+All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
 
-Overall, we're good to each other. We contribute to this community not because we have to, but because we want to. If we remember that, these guidelines will come naturally.
+Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for PyBeach.
+
+Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers.
+
+Thank you for helping make this a welcoming, friendly event for all.
+
+## The Longer Version
+
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for PyBeach.
+
+If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+
+## Contact Information
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing t-shirts and/or badges that clearly identify them as staff. You can email the incident response team at safety@pybeach.org.. You may also contact venue staff and ask to be put in touch with conference chair Nathan Danielsen.
+
+If the matter is especially urgent, please dial our Code of Conduct and safety incident hotline (we'll publish the phone number closer to the date of the event). This number will automatically route to a member of the conference staff who can render assistance.
+
+Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+
+## Procedure for Handling Harassment
+
+- Attendee procedure for incident handling
+- Staff procedure for incident handling
+
+## License
+
+This Code of Conduct was forked from the PyCon US Code of Conduct under a Creative Commons Attribution 3.0 Unported license, itself originally forked from the example policy in Geek Feminism wiki, created by the Ada Initiative and other volunteers. which is under a Creative Commons Zero license.
+
