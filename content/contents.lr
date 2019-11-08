@@ -6,8 +6,7 @@ body:
 wide variety of people who use the Python programming language. It is
 a welcoming, volunteer-run, community-driven event with the mission to
 educate and connect its attendees to one another, and promote Python
-within the local technology community. The conference is made possible
-by the fiscal sponsorship of the [Python Software Foundation].
+within the local technology community.
 
 PyBeach 2020 will be a one-day, single-track event, with a main talks
 track, open source sprints, “hallway track” space, and an expo hall.
@@ -49,7 +48,6 @@ If you need to get in touch with us, the best way to do so is by
 emailing [hello@pybeach.org].
 
 
-[Python Software Foundation]: https://www.python.org/psf/
 [Call for proposals]: https://www.papercall.io/pybeach2020
 [@PyBeachLA]: https://twitter.com/pybeachla
 [hello@pybeach.org]: mailto:hello@pybeach.org
