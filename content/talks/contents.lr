@@ -1,0 +1,72 @@
+title: Talks
+---
+body:
+
+## APIs are for People Too! <br> <small>Lisa Dusseault</small>
+
+How do you integrate an external Web API into your product so that it
+benefits the user and the company? How can engineering and product
+managers work together to build and maintain it? Come learn about the
+seven key success factors to understand when integrating a Web API!
+
+
+## Back to Basics: Approaches to Machine Learning <br> <small>Jigyasa Grover</small>
+
+Last couple of years have seen an immense growth of Machine Learning in
+multifarious domains, each one necessitating a different mathematical
+model, either rule or tree based models, geometric or probabilistic
+model. This talk reviews them all and helps choose one for an efficient
+design solution.
+
+## Don't Panic: Navigating SEP fields for Software Teams <br> <small>Hayley Denbraver</small>
+
+A SEP field is also known as a “Somebody else’s problem field”, an idea
+described in the Hitchhikers Guide to the Galaxy series. The idea is
+that humans will ignore things when they are convinced that it isn
+t their problem. This talk goes into the intersections of software and
+SEPs.
+
+
+## Fantastic Blocks and Where To Hide Them <br> <small>Christopher Neugebauer</small>
+
+Ruby has blocks. JavaScript has blocks. Swift has blocks. Python
+doesn’t have blocks.
+
+In this talk, we’ll look at why Python doesn’t have blocks, and recent
+programming techniques that have developed in languages that do have
+blocks. Then we’ll look at what we – or Python – can do about it!
+
+## Keeping fun in computing <br> <small>Dustin Ingram</small>
+
+In this talk, we’ll explore how maintaining a sense of fun and whimsy
+in science has a profound effect on discovery, innovation and progress.
+
+We’ll discuss how to keep computing fun, maintain our natural
+curiosity, and be open to the unknown, to the benefit of our field,
+coworkers, and ourselves.
+
+## PhD not required: a layperson's guide to reading journal articles <br> <small>Julia Duimovich</small>
+
+Learning from journal articles is often a chore, thanks to their
+esoteric language and hyper-specific topics. But they are still great
+educational sources & avoiding them can limit your growth. You’ll leave
+this talk wanting to find yourself an article, drink, and quiet space
+to go learn new things!
+
+
+## Protected Python: It's time we had 'the talk' <br> <small>James Mertz</small>
+
+Today, developers and users of Python are being attacked on a daily
+basis, most of the time, without their knowledge. We need to be more
+aware of these attacks and weaknesses to make more educated design
+decisions for our Python code.
+
+
+## Reinventing the Wheel (and Adding Spikes to It)! <br> <small>Jay Miller</small>
+
+We are often told that reinventing the wheel is never a good thing. I
+tend to think that I have learned so much by building things that
+already existed in some way shape or form.
+
+This talk breaks down my static site generator, aka wheel that I built,
+and some of the valuable lessons learned.
