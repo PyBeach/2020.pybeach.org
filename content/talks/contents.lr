@@ -2,6 +2,7 @@ title: Talks
 ---
 body:
 
+
 ## APIs are for People Too! <br> <small>Lisa Dusseault</small>
 
 How do you integrate an external Web API into your product so that it
@@ -62,3 +63,11 @@ already existed in some way shape or form.
 
 This talk breaks down my static site generator, aka wheel that I built,
 and some of the valuable lessons learned.
+
+
+## Useful Cryptography <br> <small>Randall Degges</small>
+
+Cryptography is often thought of as a scary topic, but it doesn't have
+to be. In this talk, you'll learn about different types of useful
+cryptography, how they work (without needing a PhD in mathematics), and
+how to immediately start applying these concepts in your projects.
