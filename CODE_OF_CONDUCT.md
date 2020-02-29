@@ -38,7 +38,7 @@ If a participant engages in behavior that violates this code of conduct, the con
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing t-shirts and/or badges that clearly identify them as staff. You can email the incident response team at [safety@pybeach.org]. You may also contact venue staff and ask to be put in touch with conference chair Nik Kantar.
 
-If the matter is especially urgent, please dial our Code of Conduct and safety incident hotline (we'll publish the phone number closer to the date of the event). This number will automatically route to a member of the conference staff who can render assistance.
+If the matter is especially urgent, please dial our Code of Conduct and safety incident hotline: <a href="tel:+14243451605">424-345-1605</a>. This number will automatically route to a member of the conference staff who can render assistance.
 
 Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
