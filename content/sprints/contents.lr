@@ -11,14 +11,20 @@ The PyBeach Sprints are your opportunity to get into contributing to open-source
 | 9:00 | **Opening Remarks** |
 | 9:15 | **Sprint Leads Setup** <br> Audrey and Daniel Roy Greenfeld |
 | 10:25 | **Updating 2020.pybeach.org Lektor Site** <br> All sprinters welcome |
-| 11:00 | **Architecture for <a href="https://github.com/worldimprovementlab/PandemicPrepKit.org">PandemicPrepKit.org</a> and <a href="https://github.com/andreagrandi/covid-api/">covid-api</a>** <br>Audrey Roy Greenfeld, Daniel Roy Greenfeld, Andrea Grandi |
+| 11:00 | **Architecture and Planning for Sprint Projects** |
 | 11:30 | **Lunch** |
 | 1:30 | **Open Sprints** <br> Contribute to any open-source project! |
 | 4:45 | **Closing Remarks** |
 
 Join us at the two long rectanglular tables in the main central area of Toolbox LA.
 
+| Sprint Project | Sprint Leads |
+|:-------------- |:------------ |
+| <a href="https://github.com/worldimprovementlab/PandemicPrepKit.org">PandemicPrepKit.org</a> | <a href="https://daniel.roygreenfeld.com">Daniel Roy Greenfeld</a>, <a href="https://audrey.roygreenfeld.com">Audrey Roy Greenfeld</a> |
+| <a href="https://github.com/andreagrandi/covid-api/">covid-api</a> | <a href="https://www.andreagrandi.it/">Andrea Grandi</a> (remote), <a href="https://audrey.roygreenfeld.com">Audrey Roy Greenfeld</a> |
+| <a href="https://github.com/pallets/click">Click</a> | <a href="https://twitter.com/davidism">David Lord</a> |
+
 Instructions for sprinters:
 
-1. Choose a project to work on! Any of the projects linked above in the schedule are open to new contributors. Or you can work on any other open-source project you want.
+1. Choose a project to work on! Any of the projects linked on this page are open to new contributors. Or you can work on any other open-source project you want.
 2. Tell the project maintainer you're interested in sprinting on their project. Ask them how you can get started contributing.
