@@ -58,7 +58,7 @@ Add and modify content as you wish. Documentation on how Lektor organizes conten
 Infrastructure
 --------------
 
-The site is deployed on `Netlify <https://www.netlify.com>`_ from the ``master`` branch of this repository, fully regenerated on every build. The domain is registered by `@nkantar <https://github.com/nkantar>`_ through `Hover <https://www.hover.com>`_, and SSL is provided by `Let's Encrypt <https://letsencrypt.org>`_.
+The site is deployed on `Netlify <https://www.netlify.com>`_ from the ``main`` branch of this repository, fully regenerated on every build. The domain is registered by `@nkantar <https://github.com/nkantar>`_ through `Hover <https://www.hover.com>`_, and SSL is provided by `Let's Encrypt <https://letsencrypt.org>`_.
 
 
 Code of Conduct
