@@ -3,7 +3,7 @@ PyBeach 2020
 
 This is the source repo for `2020.pybeach.org <https://2020.pybeach.org>`_.
 
-The site is built using `Lektor <https://www.getlektor.com/>`_ and `Sass <http://sass-lang.com/>`_, and below instructions will rely on `Pipenv <https://docs.pipenv.org/>`_ as well.
+The site is built using `Lektor <https://www.getlektor.com/>`_ and `Sass <http://sass-lang.com/>`_, and below instructions will rely on `Poetry <https://python-poetry.org>`_ as well.
 
 
 Setup
@@ -12,7 +12,7 @@ Setup
 .. code-block:: shell
 
   # initialize virtual environment and install dependencies
-  pipenv install
+  poetry install
 
 
 Developing
@@ -24,7 +24,6 @@ Developing
   make serve
   # go to http://localhost:5000
 
-After creating a PR on GitHub, note the Netlify preview link which will be available in the checks.
 
 Files
 ~~~~~
@@ -58,7 +57,7 @@ Add and modify content as you wish. Documentation on how Lektor organizes conten
 Infrastructure
 --------------
 
-The site is deployed on `Netlify <https://www.netlify.com>`_ from the ``main`` branch of this repository, fully regenerated on every build. The domain is registered by `@nkantar <https://github.com/nkantar>`_ through `Hover <https://www.hover.com>`_, and SSL is provided by `Let's Encrypt <https://letsencrypt.org>`_.
+The site is deployed on `@nkantar <https://github.com/nkantar>`_'s server from the ``main`` branch of this repository, fully regenerated on every build. The domain is registered by @nkantar through `Hover <https://www.hover.com>`_, DNS and hosting is by `DigitalOcean <https://www.digitalocean.com>`_, and SSL is provided by `Let's Encrypt <https://letsencrypt.org>`_.
 
 
 Code of Conduct
