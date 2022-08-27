@@ -1,0 +1,23 @@
+version: "3"
+
+services:
+  2020_pybeach:
+    build:
+      context: .
+    container_name: 2020_pybeach
+    environment:
+      - USER_UID=1000
+      - USER_GID=1000
+    restart: always
+    ports:
+      - "9090:9090"
+    volumes:
+      - $PWD/Caddyfile:/etc/caddy/Caddyfile
+      - 2020_pybeach_data:/data
+      - 2020_pybeach_config:/config
+
+volumes:
+  2020_pybeach_data:
+    external: false
+  2020_pybeach_config:
+    external: false
