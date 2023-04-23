@@ -57,7 +57,7 @@ Add and modify content as you wish. Documentation on how Lektor organizes conten
 Infrastructure
 --------------
 
-The site is deployed on `@nkantar <https://github.com/nkantar>`_'s server from the ``main`` branch of this repository, fully regenerated on every build. The domain is registered by @nkantar through `Hover <https://www.hover.com>`_, DNS and hosting is by `DigitalOcean <https://www.digitalocean.com>`_, and SSL is provided by `Let's Encrypt <https://letsencrypt.org>`_.
+The site is deployed in `@nkantar <https://github.com/nkantar>`_'s `Render <https://render.com`_ account from the ``main`` branch of this repository, fully regenerated on every build. The domain is registered by @nkantar through `Porkbun <https://www.porkbun.com>`_, DNS is managed by `DNSimple <https://www.dnsimple.com>`_, and SSL is provided by `Let's Encrypt <https://letsencrypt.org>`_.
 
 
 Code of Conduct
