@@ -21,22 +21,7 @@ Venue:<br>
 Chatsworth, CA 91311
 
 
-<form
-  action="https://tinyletter.com/PyBeach"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/PyBeach', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
->
-  <p>
-    For ongoing updates please subscribe to the
-    <a href="https://tinyletter.com/pybeach">mailing list</a>: &nbsp;
-    <span class="newsletter-form">
-      <input type="email" name="email" id="tlemail" placeholder="you@example.com" />
-      <input type="hidden" value="1" name="embed" />
-      <input type="submit" value="Subscribe" />
-    </span>
-  </p>
-</form>
+For ongoing updates please subscribe to the [mailing list](https://buttondown.email/pybeach).
 
 Announcements will also be shared via Twitter: [@PyBeachLA]
 
