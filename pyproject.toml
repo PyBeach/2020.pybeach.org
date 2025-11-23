@@ -1,16 +1,9 @@
-[tool.poetry]
+[project]
 name = "2020.pybeach.org"
-version = "2022.08.26.00"
+version = "2025.11.23.00"
 description = "PyBeach 2020 website"
-authors = ["Nik Kantar <nik@nkantar.com>"]
-license = "MIT"
-
-[tool.poetry.dependencies]
-python = "^3.8"
-Lektor = "^3.3.6"
-
-[tool.poetry.dev-dependencies]
-
-[build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
+readme = "README.rst"
+requires-python = ">=3.14"
+dependencies = [
+    "lektor==3.3.6",
+]
