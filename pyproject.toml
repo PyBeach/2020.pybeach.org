@@ -5,5 +5,5 @@ description = "PyBeach 2020 website"
 readme = "README.rst"
 requires-python = ">=3.14"
 dependencies = [
-    "lektor==3.3.6",
+    "lektor==3.3.11",
 ]
