@@ -1,0 +1,7 @@
+2020.pybeach.org:80,
+2020.pybeach.org:443,
+www.2020.pybeach.org:80,
+www.2020.pybeach.org:443 {
+    root * /srv
+    file_server
+}
